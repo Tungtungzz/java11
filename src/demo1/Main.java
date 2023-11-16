@@ -12,7 +12,6 @@ public class Main {
         sp.TangSoLuong(5);
         sp.GiamSoLuong(3);
         sp.ThayDoiGiaTien(150.0);
-
         sp.InThongTin();
         sp.KiemTraHang();
     }

@@ -54,5 +54,4 @@ public class Product {
         System.out.println("Số lượng: " + soLuong);
         System.out.println("Đơn vị: " + donVi);
     }
-
 }
